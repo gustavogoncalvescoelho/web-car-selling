@@ -59,7 +59,7 @@ function Navbar() {
                   Contacto
                 </Link>
               </li>
-              <li className='nav-btn'>
+              {/* <li className='nav-btn'>
                 {button ? (
                   <Link to='/login' className='btn-link'>
                     <Button buttonStyle='btn--outline'>Login</Button>
@@ -75,8 +75,8 @@ function Navbar() {
                     </Button>
                   </Link>
                 )}
-              </li>
-              <li className='nav-btn'>
+              </li> */}
+              {/* <li className='nav-btn'>
                 {button ? (
                   <Link to='/register' className='btn-link'>
                     <Button buttonStyle='btn--outline'>Register</Button>
@@ -92,7 +92,7 @@ function Navbar() {
                     </Button>
                   </Link>
                 )}
-              </li>
+              </li> */}
             </ul>
           </div>
         </nav>
